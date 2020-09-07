@@ -94,6 +94,7 @@
                     <a href="/">Home</a>
                     <a href="/about">About</a>
                     <a href="/contact">Contact</a>
+                    <a href="/skill">Skill</a>
                 </div>
             </div>
         </div>

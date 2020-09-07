@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="/">Software Engineering'18</a>
+                    <a href="/skill">Skill</a>
                 </div>
 
                 <br>
